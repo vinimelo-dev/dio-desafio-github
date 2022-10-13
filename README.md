@@ -2,4 +2,5 @@
 desafio repositório do bootcamp
 
 
-### Fonte: https://www.markdownguide.org/basic-syntax/
+### Links uteis:
+[sintaxe básica markdown] - https://www.markdownguide.org/basic-syntax/
