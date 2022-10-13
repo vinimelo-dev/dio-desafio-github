@@ -3,4 +3,4 @@ desafio repositório do bootcamp
 
 
 ### Links uteis:
-[sintaxe básica markdown] - https://www.markdownguide.org/basic-syntax/
+[sintaxe básica markdown](https://www.markdownguide.org/basic-syntax/)
